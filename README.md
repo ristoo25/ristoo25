@@ -84,7 +84,7 @@
       </ul>
       <div align="center">
         <a href="https://github.com/ristoo25/automatedvulns">
-          <img src="https://img.shields.io/badge/VIEW_CODE-20C20E?style=flat-square&logo=github&logoColor=black"/>
+          <img src="https://img.shields.io/badge/VIEW_Architecture-20C20E?style=flat-square&logo=github&logoColor=black"/>
         </a>
       </div>
     </td>

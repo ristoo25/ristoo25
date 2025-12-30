@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Sebastian! <br/> and I am a <a href="https://www.linkedin.com/in/sebastian-vlad-m-a18049163/">Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Cyber Security projects:</h2>
+
+- <b>Automated Vulnerability Orchestration Pipeline & SOC Integration</b>
+  - [Praciting DS & Algos in Python](https://github.com/ristoo25/automatedvulns/blob/main/README.md) 
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/sebastian-vlad-m-a18049163/
 
 <!--
-**ristoo25/ristoo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

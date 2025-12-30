@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=Cyber+Security+Professional;Zero+Trust+Network+Architect;Information+Security+Expert;GRC+%26+Risk+Specialist;CISSP+Candidate+(In+Progress)" alt="Typing SVG" />
+  <h1 style="color: #20C20E; font-size: 3em; margin-bottom: 0px;">Hi, I'm Sebastian!</h1>
 
-<br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=Cyber+Security+Professional;Zero+Trust+Network+Architect;Information+Security+Expert;GRC+%26+Risk+Specialist;CISSP+Candidate+(In+Progress)" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/sebastian-vlad-m-a18049163/">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="30" />
-</a>
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/sebastian-vlad-m-a18049163/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="30" />
+  </a>
 
 </div>
 

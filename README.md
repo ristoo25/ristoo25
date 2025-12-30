@@ -55,7 +55,7 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Auditor-ISO_27001_Lead-darkblue?style=for-the-badge&logo=iso&logoColor=white&labelColor=101010" />
+      <img src="https://img.shields.io/badge/Auditor-ISO_27001_Auditor-darkblue?style=for-the-badge&logo=iso&logoColor=white&labelColor=101010" />
       <br/><br/>
       <img src="https://img.shields.io/badge/CompTIA-Security+-red?style=for-the-badge&logo=comptia&logoColor=white&labelColor=101010" />
       <br/><br/>
@@ -70,7 +70,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 10px;">
+    <td width="50%" valign="top">
       <div align="center">
         <h3>🛡️ Enterprise SOC Automation</h3>
         <img src="https://img.shields.io/badge/Tech-Python_&_API_Integration-blue?style=flat-square" />
@@ -88,7 +88,7 @@
         </a>
       </div>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 10px;">
+    <td width="50%" valign="top">
       <div align="center">
         <h3>🖥️ CyberOS Platform</h3>
         <img src="https://img.shields.io/badge/Tech-React_&_Simulation-success?style=flat-square" />
@@ -136,7 +136,7 @@
   </td>
   <td valign="top">
    <ul>
-    <li><b>Auditing:</b> ISO 27001 Lead Auditor, NIST CSF.</li>
+    <li><b>Auditing:</b> ISO 27001 Internal Auditor, NIST CSF.</li>
     <li><b>Compliance:</b> GxP (Pharma), PCI-DSS.</li>
     <li><b>Risk:</b> Enterprise Risk Register & Mitigation Strategy.</li>
    </ul>

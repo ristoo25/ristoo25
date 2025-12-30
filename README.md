@@ -3,8 +3,10 @@
 <h2>👨‍💻 Cyber Security projects:</h2>
 
 - <b>Automated Vulnerability Orchestration Pipeline & SOC Integration</b>
-  - [Automated Vulnerability Lifecycle & SOC Orchestration](https://github.com/ristoo25/automatedvulns/blob/main/README.md) 
-
+  - [Automated Vulnerability Lifecycle & SOC Orchestration](https://github.com/ristoo25/automatedvulns/blob/main/README.md)
+    
+- <b>CyberOS Founder</b>
+  - [CyberOS - Enteprise Simulation Training](https://github.com/ristoo25/Cyber-OS) 
 
 
 
